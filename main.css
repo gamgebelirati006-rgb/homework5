@@ -1,0 +1,21 @@
+h4{
+    display: inline-block;
+    
+}
+header{
+    background-color: rgb(229, 66, 66);
+    text-align: center;
+}
+.img{
+    text-align: center;
+}
+img{
+    height: 750px;
+    width: 800px;
+}
+.article{
+    text-align: center;
+}
+.foto{
+    text-align: center;
+}
