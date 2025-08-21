@@ -4,7 +4,6 @@ h4{
 }
 header{
     background-color: rgb(229, 66, 66);
-    text-align: center;
 }
 .img{
     text-align: center;
@@ -18,4 +17,14 @@ img{
 }
 .foto{
     text-align: center;
+}
+h5{
+    display: inline-block;
+}
+.conteiner2{
+    text-align: center;
+    margin: auto;
+}
+body{
+    background-color: pink;
 }
